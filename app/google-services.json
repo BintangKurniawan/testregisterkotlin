@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336261824338",
+    "firebase_url": "https://realtime-db-344cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtime-db-344cd",
+    "storage_bucket": "realtime-db-344cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336261824338:android:1f2a0d2ab980e98f9c848b",
+        "android_client_info": {
+          "package_name": "com.example.ngeteslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336261824338-gbiv4sclit8qgi8dirjesgpi4aa8k7nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyyIrdNIkkI7zs6TGSX5cKcxtxGvEDPhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336261824338-gbiv4sclit8qgi8dirjesgpi4aa8k7nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
